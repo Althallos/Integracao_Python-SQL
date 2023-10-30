@@ -12,6 +12,6 @@ https://www.microsoft.com/pt-br/sql-server/sql-server-downloads
 Banco de dados:
 https://www.microsoft.com/en-us/download/details.aspx?id=18279
 
-# Bibliotecas Usados:
+# Bibliotecas Usadas:
 Pyodbc
 
