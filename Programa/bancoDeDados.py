@@ -28,7 +28,7 @@ cursor = conexao.cursor()
 #   da sua operação no banco de dados para implementar (Não aconselhável se você não tem certeza que pode fazer isso)
 #conexao.commit()
 
-
+#   Opção 2: Puxar uma consulta para o banco de dados com o pandas
 import pandas as pd
 
 produtos_df = pd.read_sql("SELECT * FROM ContosoRetailDW.dbo.DimProduct", conexao)
