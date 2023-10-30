@@ -1,5 +1,5 @@
-# Integracao_SQL
- Integração SQL [Python]
+Integração Python - SQL
+Integração Python - SQL [Python]
 
 Este repositório demonstra como integrar um banco de dados SQL com uma aplicação em Python. 
 
